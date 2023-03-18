@@ -1,6 +1,6 @@
 ### Hi there I am Pleased to have you here. Have Fun...👋
 - 🌱 I’m currently learning Artificial Intelligence.
-
+- 🔭 I’m currently working on DataScience assignment in analyzing and predicting UK criminal Prosecution dataset.
 <!--
 **AdewaleData/AdewaleData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
