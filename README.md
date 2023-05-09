@@ -16,7 +16,7 @@ I live in Lagos, Nigeria 🏫. I developed myself on the web. I am currently lea
 - 💡 Fun fact: I'm currently studying as a self learner.
 - 🌱 I’m currently learning PHP, Laravel.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer/Developer, Python Developer, PHP  Backend Developer (Intern or Junior level).
+- 💼 Job interests: Software Engineer/Developer, DataScience , Python Developer, PHP  Backend Developer (Intern or Junior level).
 - 📫 You can contact me by emailing [![Contact](https://img.shields.io/badge/-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.afolabiwale262@gmail.com).
 
 
