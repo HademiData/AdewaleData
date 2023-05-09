@@ -32,7 +32,7 @@ I live in Lagos, Nigeria 🏫. I developed myself on the web. I am currently lea
 	- Bootstrap
 	- React with Redux :electron:
 	- MySQL
-  - Express
+  - Django
   - NodeJS  
 - **Shell Scripting**
 
@@ -41,5 +41,11 @@ I live in Lagos, Nigeria 🏫. I developed myself on the web. I am currently lea
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
 <br/><br/>
+
+## 🌱 I’m currently learning ...
+- **PHP**
+- **Laravel**
+<br/>
+  <br/>
 
 
