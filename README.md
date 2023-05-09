@@ -3,16 +3,13 @@ I am Afolabi Adewale 🧔
 I live in Lagos, Nigeria 🏫. I developed myself on the web. I am currently learning as a Backend developer 👨‍💻.
 
 Here's a quick summary about me:
+
 😊 Pronouns: He/him
 💡 Fun fact: I'm currently studying as a self learner.
 🌱 I’m currently learning PHP, Laravel.
 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 💼 Job interests: Software Engineer/Developer, Python Developer, Backend Developer, Data Analyst, PHP Laravel (Intern or Junior level).
 📫 You can contact me by emailing Contact.
-
-
-
-Hello, I'm an Entry-Level Backend Developer!
 
 
 Introduction
