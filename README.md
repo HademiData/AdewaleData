@@ -19,5 +19,27 @@ I live in Lagos, Nigeria 🏫. I developed myself on the web. I am currently lea
 - 💼 Job interests: Software Engineer/Developer, DataScience , Python Developer, PHP  Backend Developer (Intern or Junior level).
 - 📫 You can contact me by emailing [![Contact](https://img.shields.io/badge/-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.afolabiwale262@gmail.com).
 
+## Ask me about :computer: 
+- **Competitive Programming**
+	- Python ❤️
+	- C++
+	- PHP
+	- R
+	- Some Java
+
+- **Web Development**
+	- HTML, CSS and Javascript :white_check_mark:
+	- Bootstrap
+	- React with Redux :electron:
+	- MySQL
+  - Express
+  - NodeJS  
+- **Shell Scripting**
+
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
+<br/><br/>
 
 
