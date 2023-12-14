@@ -8,31 +8,30 @@
   
 I am Afolabi Adewale 🧔
 
-I live in Lagos, Nigeria 🏫. I developed myself on the web. I am currently learning as a Backend developer <!--at <a href="https://ng.www.linkedin.com/in/adewale-afolabi-227b74242/">IKAS</a>-->👨‍💻. 
+I live in Lagos, Nigeria 🏫. I developed myself on the web, and I am currently learning as a Backend developer <!--at <a href="https://ng.www.linkedin.com/in/adewale-afolabi-227b74242/">IKAS</a>-->👨‍💻. 
 
 ## **Here's a quick summary about me**:
 
-- 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying as a self learner.
-- 🌱 I’m currently learning PHP, Laravel.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer/Developer, DataScience , Python Developer, PHP  Backend Developer (Intern or Junior level).
+- 💡 Fun fact: I'm currently studying as a Backend Developer.
+- 🌱 I’m currently learning NestJS.
+- 😊 I’m looking for opportunities in open source projects, hackathons, internships, and entry-level opportunities.
+- 💼 Job interests: Software Engineer/Developer in Backend Developement (Intern or Junior level).
 - 📫 You can contact me by emailing [![Contact](https://img.shields.io/badge/-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.afolabiwale262@gmail.com).
 
 ## Ask me about :computer: 
 - **Competitive Programming**
 	- Python ❤️
-	- C++
+	- JavaScript
 	- PHP
 	- R
-	- Some Java
+	  
 
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
-	- Bootstrap
-	- React with Redux :electron:
-	- MySQL
-  - Django
+	- NestJS, TypeScript
+	- React.
+	- MySQL, MongoDB, Prisma, TypeORM. 
+  - Docker
   - NodeJS  
 - **Shell Scripting**
 
@@ -45,6 +44,9 @@ I live in Lagos, Nigeria 🏫. I developed myself on the web. I am currently lea
 ## 🌱 I’m currently learning ...
 - **PHP**
 - **Laravel**
+- and 
+- **Nestjs**
+- **TypeScript**
 <br/>
   <br/>
 
