@@ -22,15 +22,13 @@ I live in Lagos, Nigeria 🏫. I developed myself on the web, and I am currently
 - **Competitive Programming**
 	- Python ❤️
 	- JavaScript
-	- PHP
-	- R
-	  
+	- PHP	  
 
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- NestJS, TypeScript
 	- React.
-	- MySQL, MongoDB, Prisma, TypeORM. 
+	- MySQL, Prisma, TypeORM. 
   - Docker
   - NodeJS  
 - **Shell Scripting**
@@ -42,11 +40,11 @@ I live in Lagos, Nigeria 🏫. I developed myself on the web, and I am currently
 <br/><br/>
 
 ## 🌱 I’m currently learning ...
-- **PHP**
-- **Laravel**
-- and 
 - **Nestjs**
 - **TypeScript**
+-    also
+- **PHP**
+- **Laravel**
 <br/>
   <br/>
 
