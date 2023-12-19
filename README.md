@@ -42,7 +42,7 @@ I live in Lagos, Nigeria 🏫. I developed myself on the web, and I am currently
 ## 🌱 I’m currently learning ...
 - **Nestjs**
 - **TypeScript**
--    also
+   also
 - **PHP**
 - **Laravel**
 <br/>
