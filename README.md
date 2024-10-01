@@ -5,10 +5,9 @@
 [![GitHub](https://img.shields.io/badge/-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/AdewaleData) [![Website Badge](https://img.shields.io/badge/-webpage-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://webpage/)](https://https://github.com/AdewaleData) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adewale-afolabi-227b74242)](https://www.linkedin.com/in/adewale-afolabi-227b74242) 
  [![GMAIL](https://img.shields.io/badge/-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.afolabiwale262@gmail.com)
   [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/afolabiwale262)](https://twitter.com/afolabiwale262](https://twitter.com/afolabiwale262))
-  
-I am Afolabi Adewale 🧔
 
-I live in Lagos, Nigeria 🏫. I developed myself on the web, and I am currently learning as a Backend developer <!--at <a href="https://ng.www.linkedin.com/in/adewale-afolabi-227b74242/">IKAS</a>-->👨‍💻. 
+Hi 👋, I am Afolabi Adewale 🧔
+A passionate Software Engineer from Lagos, Nigeria 🏫. I developed myself on the web, and I am currently learning as a Backend developer <!--at <a href="https://ng.www.linkedin.com/in/adewale-afolabi-227b74242/">IKAS</a>-->👨‍💻. 
 
 ## **Here's a quick summary about me**:
 
