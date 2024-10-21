@@ -11,7 +11,7 @@ A passionate Software Engineer from Lagos, Nigeria 🏫. I developed myself on t
 
 ## **Here's a quick summary about me**:
 
-- 💡 Fun fact: I'm currently studying as a Backend Developer.
+- 💡 I'm currently studying as a Backend Developer.
 - 🌱 I’m currently learning NestJS.
 - 😊 I’m looking for opportunities in open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer/Developer in Backend Developement (Intern or Junior level).
