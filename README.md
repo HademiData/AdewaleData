@@ -26,9 +26,9 @@ I build intelligent software systems, machine learning applications, and scalabl
 
 ## Featured Projects
 
-- **CreditView:** A machine learning-powered credit scoring application for credit risk assessment and explainability.
-- **Ràtech:** A technology e-commerce platform built with a microservices architecture.
-- **Maintain AI:** An AI-powered maintenance assistant combining retrieval-augmented generation with structured inventory lookup.
+- **CreditView:** A machine learning-powered credit scoring application for credit risk assessment and explainability.[Link](https://creditview.onrender.com/)
+- **Ràtech:** A technology e-commerce platform built with a microservices architecture.[Link](https://ecommerce-taupe-ten-55.vercel.app/)
+- **Maintain AI:** An AI-powered maintenance assistant combining retrieval-augmented generation with structured inventory lookup.[Link](https://maintain-ai-60aj.onrender.com/)
 
 ## Ask me about 💻
 
@@ -47,6 +47,8 @@ I build intelligent software systems, machine learning applications, and scalabl
 - REST APIs
 - Microservices
 - Prisma, TypeORM
+- System Design
+- Database Design
 - MySQL, PostgreSQL, MongoDB
 
 ### Cloud & DevOps
