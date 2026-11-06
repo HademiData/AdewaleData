@@ -29,6 +29,8 @@ I build intelligent software systems, machine learning applications, and scalabl
 - **CreditView:** A machine learning-powered credit scoring application for credit risk assessment and explainability.[Link](https://creditview.onrender.com/)
 - **Ràtech:** A technology e-commerce platform built with a microservices architecture.[Link](https://ecommerce-taupe-ten-55.vercel.app/)
 - **Maintain AI:** An AI-powered maintenance assistant combining retrieval-augmented generation with structured inventory lookup.[Link](https://maintain-ai-60aj.onrender.com/)
+- **WattsSmart**:** WattSmart Naija is an AI-powered energy management app built to help Nigerian households and businesses understand and reduce their electricity costs.[Link](https://wattsmart-naija.ai.studio/)
+  
 
 ## Ask me about 💻
 
